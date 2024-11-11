@@ -1,0 +1,26 @@
+# Archivos de entornos virtuales
+venv/
+.env/
+
+# Archivos de configuración y datos sensibles
+*.env
+shared/config.py  # Si `config.py` contiene datos sensibles y solo lo usas localmente
+
+# Archivos de compilación de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de log
+*.log
+
+# Directorios de configuración de IDEs y editores
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de cobertura de pruebas
+.pytest_cache/
+.coverage
