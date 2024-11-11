@@ -1,0 +1,20 @@
+{
+  "name": "react_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMGurtubay/react_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMGurtubay/react_lab/issues"
+  },
+  "homepage": "https://github.com/JMGurtubay/react_lab#readme"
+}
