@@ -24,3 +24,6 @@ Thumbs.db
 # Archivos de cobertura de pruebas
 .pytest_cache/
 .coverage
+
+cert.pem 
+key.pem
